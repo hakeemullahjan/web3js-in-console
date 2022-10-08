@@ -22,6 +22,6 @@ function getChainId() {
 }
 
 function changeNetwork(chainId) {
-  console.log("changing Network...", chainId);
+  console.log("changing Network...");
   window.web3 = new Web3(new Web3.providers.HttpProvider(rpcURLs[chainId]));
 }
