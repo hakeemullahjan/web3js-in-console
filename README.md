@@ -3,7 +3,7 @@ Jump straight into the Console panel for Web3js playground 👇
 https://web3js-in-console.web.app/
 
 Web3 instance is ready:
- file:///home/hakeemullah/Videos/Screencasts/Get%20Transactions%20details.webm[Simple-json-rpc-call.webm](https://user-images.githubusercontent.com/42214791/194745094-f06d96e3-dfbb-45f8-9f41-0fc85badbda4.webm)
+[Simple-json-rpc-call.webm](https://user-images.githubusercontent.com/42214791/194745094-f06d96e3-dfbb-45f8-9f41-0fc85badbda4.webm)
 
 
 Get Transaction Details:
