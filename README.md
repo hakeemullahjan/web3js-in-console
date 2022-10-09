@@ -1,5 +1,5 @@
 # web3js-in-console
-Jump straight into the Console panel for Web3js playground 👇
+Jump straight into the Console panel for Web3js playground 👉
 https://web3js-in-console.web.app/
 
 
@@ -10,7 +10,8 @@ Web3 instance is ready, just call JSON RPC call to the blockchain:
 
 
 Get Transaction's Details:
-[Get Transactions details.webm](https://user-images.githubusercontent.com/42214791/194745849-b8c84b41-febf-42fd-b0c2-ffa80e4103a0.webm)
+![Get Transactions details (2)](https://user-images.githubusercontent.com/42214791/194746320-25f7efd6-1902-4163-9083-618008c76107.gif)
+
 
 
 Change Netwrok:
